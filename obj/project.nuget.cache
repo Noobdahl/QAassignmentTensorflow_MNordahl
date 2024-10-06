@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSU6L/QtuZw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\neural-console\\QAassignmentTensorflow\\QAassignmentTensorflow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.8900\\selenium.webdriver.chromedriver.129.0.6668.8900.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
